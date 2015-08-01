@@ -1,12 +1,11 @@
 {
   "name": "libarray",
-  "version": "0.0.1",
   "description": "",
+  "version": "0.0.1",
   "main": "libarray.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sudaraka Wijesinghe <sudaraka.org/contact>",
-  "license": "BSD",
-  "dependencies": {}
+  "author": "Sudaraka Wijesinghe <sudaraka@sudaraka.org>",
+  "license": "BSD-2-Clause"
 }
