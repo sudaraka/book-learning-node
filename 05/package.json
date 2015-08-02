@@ -1,0 +1,14 @@
+{
+  "name": "05",
+  "version": "0.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudaraka Wijesinghe <sudaraka@sudaraka-org> (http://sudaraka-org/)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "mime": "^1.3.4"
+  }
+}
